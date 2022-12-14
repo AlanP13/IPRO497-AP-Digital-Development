@@ -1,0 +1,7 @@
+compile.on.save=true
+do.depend=false
+do.jar=true
+file.reference.AbsoluteLayout.jar=E:\\CollegeProject2018\\JAVA Project2018\\JAVA Project RamSir\\Minor\\CoreJava\\Hotel Management Crecent\\Project_Source_code\\Hotelmanagement
+javac.debug=true
+javadoc.preview=true
+user.properties.file=C:\\Users\\alanp\\AppData\\Roaming\\NetBeans\\12.3\\build.properties
